@@ -101,6 +101,33 @@ Always comply with the laws, regulations, and terms of service applicable in you
 
 ## 📥 Downloads
 
-[![Download Tor Browser](https://img.shields.io/badge/Tor_Browser-Download-7D4698?style=for-the-badge&logo=tor-project)](https://www.torproject.org/download/)
+# 🧅 Tor Browser
 
-[![Download v2rayN](https://img.shields.io/badge/v2rayN-Download-0088CC?style=for-the-badge&logo=github)](https://github.com/2dust/v2rayN/releases)
+### 🪟 Windows
+[![Download Tor Browser Windows](https://img.shields.io/badge/Tor%20Browser-Windows-7D4698?style=for-the-badge&logo=windows)](https://www.torproject.org/download/)
+
+### 🍎 macOS
+[![Download Tor Browser macOS](https://img.shields.io/badge/Tor%20Browser-macOS-7D4698?style=for-the-badge&logo=apple)](https://www.torproject.org/download/)
+
+### 🐧 Linux
+[![Download Tor Browser Linux](https://img.shields.io/badge/Tor%20Browser-Linux-7D4698?style=for-the-badge&logo=linux)](https://www.torproject.org/download/)
+
+### 🤖 Android
+[![Download Tor Browser Android](https://img.shields.io/badge/Tor%20Browser-Android-7D4698?style=for-the-badge&logo=android)](https://www.torproject.org/download/)
+
+
+---
+
+# ⚡ v2rayN
+
+### 🪟 Windows
+[![Download v2rayN Windows](https://img.shields.io/badge/v2rayN-Windows-0088CC?style=for-the-badge&logo=windows)](https://github.com/2dust/v2rayN/releases)
+
+### 🐧 Linux
+[![Download v2rayN Linux](https://img.shields.io/badge/v2rayN-Linux-0088CC?style=for-the-badge&logo=linux)](https://github.com/2dust/v2rayN/releases)
+
+### 🍎 macOS
+[![Download v2rayN macOS](https://img.shields.io/badge/v2rayN-macOS-0088CC?style=for-the-badge&logo=apple)](https://github.com/2dust/v2rayN/releases)
+
+### 🤖 Android
+[![Download v2rayN Android](https://img.shields.io/badge/v2rayN-Android-0088CC?style=for-the-badge&logo=android)](https://github.com/2dust/v2rayN/releases)
