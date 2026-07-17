@@ -99,35 +99,36 @@ This repository is intended for educational purposes only.
 Always comply with the laws, regulations, and terms of service applicable in your country and when using third-party software or networks.
 
 
-## 📥 Downloads
 
-# 🧅 Tor Browser
+## 📥 Download Tor Browser
 
-### 🪟 Windows
-[![Download Tor Browser Windows]([https://img.shields.io/badge/Tor%20Browser-Windows-7D4698?style=for-the-badge&logo=windows)](https://www.torproject.org/download/](https://www.torproject.org/dist/torbrowser/15.0.18/tor-browser-windows-x86_64-portable-15.0.18.exe))
-
-### 🍎 macOS
-[![Download Tor Browser macOS](https://img.shields.io/badge/Tor%20Browser-macOS-7D4698?style=for-the-badge&logo=apple)](https://www.torproject.org/download/)
-
-### 🐧 Linux
-[![Download Tor Browser Linux](https://img.shields.io/badge/Tor%20Browser-Linux-7D4698?style=for-the-badge&logo=linux)](https://www.torproject.org/download/)
-
-### 🤖 Android
-[![Download Tor Browser Android](https://img.shields.io/badge/Tor%20Browser-Android-7D4698?style=for-the-badge&logo=android)](https://www.torproject.org/download/)
-
+Get the latest Tor Browser package for your operating system.
 
 ---
 
-# ⚡ v2rayN
+### 🪟 Windows (64-bit Portable)
 
-### 🪟 Windows
-[![Download v2rayN Windows](https://img.shields.io/badge/v2rayN-Windows-0088CC?style=for-the-badge&logo=windows)](https://github.com/2dust/v2rayN/releases)
+[![Download Tor Browser Windows](https://img.shields.io/badge/Download-Tor%20Browser%20Windows-7D4698?style=for-the-badge&logo=windows)](https://www.torproject.org/dist/torbrowser/15.0.18/tor-browser-windows-x86_64-portable-15.0.18.exe)
 
-### 🐧 Linux
-[![Download v2rayN Linux](https://img.shields.io/badge/v2rayN-Linux-0088CC?style=for-the-badge&logo=linux)](https://github.com/2dust/v2rayN/releases)
+---
 
 ### 🍎 macOS
-[![Download v2rayN macOS](https://img.shields.io/badge/v2rayN-macOS-0088CC?style=for-the-badge&logo=apple)](https://github.com/2dust/v2rayN/releases)
+
+[![Download Tor Browser macOS](https://img.shields.io/badge/Download-Tor%20Browser%20macOS-7D4698?style=for-the-badge&logo=apple)](https://www.torproject.org/dist/torbrowser/15.0.18/tor-browser-macos-15.0.18.dmg)
+
+---
+
+### 🐧 Linux (64-bit)
+
+[![Download Tor Browser Linux](https://img.shields.io/badge/Download-Tor%20Browser%20Linux-7D4698?style=for-the-badge&logo=linux)](https://www.torproject.org/dist/torbrowser/15.0.18/tor-browser-linux-x86_64-15.0.18.tar.xz)
+
+---
 
 ### 🤖 Android
-[![Download v2rayN Android](https://img.shields.io/badge/v2rayN-Android-0088CC?style=for-the-badge&logo=android)](https://github.com/2dust/v2rayN/releases)
+
+[![Download Tor Browser Android](https://img.shields.io/badge/Download-Tor%20Browser%20Android-7D4698?style=for-the-badge&logo=android)](https://www.torproject.org/download/#android)
+
+---
+
+🛡️ **Official Source:** Tor Project  
+🌐 https://www.torproject.org/download/
