@@ -104,7 +104,7 @@ Always comply with the laws, regulations, and terms of service applicable in you
 # 🧅 Tor Browser
 
 ### 🪟 Windows
-[![Download Tor Browser Windows](https://img.shields.io/badge/Tor%20Browser-Windows-7D4698?style=for-the-badge&logo=windows)](https://www.torproject.org/download/)
+[![Download Tor Browser Windows]([https://img.shields.io/badge/Tor%20Browser-Windows-7D4698?style=for-the-badge&logo=windows)](https://www.torproject.org/download/](https://www.torproject.org/dist/torbrowser/15.0.18/tor-browser-windows-x86_64-portable-15.0.18.exe))
 
 ### 🍎 macOS
 [![Download Tor Browser macOS](https://img.shields.io/badge/Tor%20Browser-macOS-7D4698?style=for-the-badge&logo=apple)](https://www.torproject.org/download/)
