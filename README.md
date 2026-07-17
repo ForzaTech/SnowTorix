@@ -97,3 +97,10 @@ Instead of connecting directly to websites, applications configured to use this 
 This repository is intended for educational purposes only.
 
 Always comply with the laws, regulations, and terms of service applicable in your country and when using third-party software or networks.
+
+
+## 📥 Downloads
+
+[![Download Tor Browser](https://img.shields.io/badge/Tor_Browser-Download-7D4698?style=for-the-badge&logo=tor-project)](https://www.torproject.org/download/)
+
+[![Download v2rayN](https://img.shields.io/badge/v2rayN-Download-0088CC?style=for-the-badge&logo=github)](https://github.com/2dust/v2rayN/releases)
